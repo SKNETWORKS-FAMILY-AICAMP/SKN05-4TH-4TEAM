@@ -99,7 +99,7 @@ python manage.py runserver
 
 <details>
   
-<summary><h2>사용 방법</h2></summary>
+<summary><h2>작업 지시서</h2></summary>
 
 ![6](https://github.com/user-attachments/assets/eaebb972-5965-4e5d-9938-48023aec99c4)
 ![7](https://github.com/user-attachments/assets/260ab523-3697-4cce-aede-a844a56034f3)
