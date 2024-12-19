@@ -101,7 +101,13 @@ python manage.py runserver
   
 <summary><h2>사용 방법</h2></summary>
 
-!
+![6](https://github.com/user-attachments/assets/eaebb972-5965-4e5d-9938-48023aec99c4)
+![7](https://github.com/user-attachments/assets/260ab523-3697-4cce-aede-a844a56034f3)
+![8](https://github.com/user-attachments/assets/45ecd81e-66e0-4438-af5b-5d380324260c)
+![9](https://github.com/user-attachments/assets/a9adc378-b5cb-4c92-968d-354f0db57f9a)
+![10](https://github.com/user-attachments/assets/5ffc169c-5d16-4d4d-b7fc-968d30a61315)
+![11](https://github.com/user-attachments/assets/73baa85a-d7ac-4583-b94e-9908fdafa335)
+
   
 </details>
   
