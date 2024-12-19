@@ -120,6 +120,15 @@ python manage.py runserver
 
 </details>
 
+
+<details>
+ <summary><h2>발표자료</h2></summary>
+[https://www.canva.com/design/DAGZsCd0QvY/8cYwYsuAvFSAZzrmdXSkLQ/edit?utm_content=DAGZsCd0QvY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](url)
+
+</details>
+
+
+
 ## 한 줄 회고
 <hr>
 <blockquote>
