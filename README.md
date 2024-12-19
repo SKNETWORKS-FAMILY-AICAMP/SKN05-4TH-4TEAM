@@ -14,7 +14,7 @@
 <br>
 
 
-# 💻문서 Q&A 시스템
+# 💻문서 Q&A 웹 서비스
 
 ## 프로젝트 개요
 
@@ -44,13 +44,30 @@ _Development_
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-## 시스템 구성도
+
+<details>
+  
+<summary><h2>요구사항 정의서</h2></summary>
+
+![image](https://github.com/user-attachments/assets/7108b373-c65f-4651-8e27-46c062342ef4)
+  
+</details>
+
+<details>
+  
+<summary><h2>플로우 차트</h2></summary>
+
+![SKN05_PJT4_4_플로우차트](https://github.com/user-attachments/assets/03c7c556-2862-4664-b80e-fbf0e5babe85)
+  
+</details>
+
+<details>
+  
+<summary><h2>시스템 구성도</h2></summary>
 
 ![SKN05_PJT04_4_시스템 구성도](https://github.com/user-attachments/assets/bdd95d97-1fbe-4d78-b333-4a3da3162e79)
-
-## 요구사항 정의서
-
-![image](https://github.com/user-attachments/assets/7358ce44-1138-4995-95c4-1999867a9ed7)
+  
+</details>
 
 ## Prerequisites
 
