@@ -49,8 +49,8 @@ _Development_
   
 <summary><h2>요구사항 정의서</h2></summary>
 
-![image](https://github.com/user-attachments/assets/7108b373-c65f-4651-8e27-46c062342ef4)
-  
+![image](https://github.com/user-attachments/assets/bbabd0d5-01c1-4163-a8c8-d42a4d07e5a9)
+
 </details>
 
 <details>
