@@ -10,7 +10,7 @@
 |  **이준호** |  **신혜원** |  **윤상혁** |  **배윤관** |
 |:---------:|:---------:|:---------:|:-----------:|
 | [@Lanvizu](https://github.com/Lanvizu) | [@gjslqjxjclq](https://github.com/gjslqjxjclq) | [@ggreing](https://github.com/ggreing) |  [@yoonkwan95](https://github.com/yoonkwan95) |
-|FE, BE||||
+|FE, BE|플로우 차트, 발표자료 작성|FE, BE|요구사항 정의서|
 <br>
 
 
@@ -101,7 +101,9 @@ python manage.py runserver
   
 <summary><h2>사용 방법</h2></summary>
 
-
+!
+  
+</details>
   
 </details>
 
@@ -117,7 +119,7 @@ python manage.py runserver
 <blockquote>
 
 •	이준호 : <br>
-•	신혜원 : <br>
+•	신혜원 : 백엔드와 프론트엔드를 경험해 볼 수 있는 좋은 기회였습니다.<br>
 •	윤상혁 : <br>
 •	배윤관 : 
 
