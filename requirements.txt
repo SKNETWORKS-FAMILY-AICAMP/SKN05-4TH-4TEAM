@@ -1,0 +1,10 @@
+django
+pandas
+pdfplumber
+langchain
+langchain-community
+pinecone-client
+openai
+chardet
+tiktoken
+python-slugify
