@@ -48,29 +48,6 @@ Django 웹 프레임워크를 활용하여 사용자 친화적인 인터페이�
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-<details>
-  
-<summary><h2>요구사항 정의서</h2></summary>
-
-![image](https://github.com/user-attachments/assets/bbabd0d5-01c1-4163-a8c8-d42a4d07e5a9)
-
-</details>
-
-<details>
-  
-<summary><h2>플로우 차트</h2></summary>
-
-![SKN05_PJT4_4_플로우차트](https://github.com/user-attachments/assets/03c7c556-2862-4664-b80e-fbf0e5babe85)
-  
-</details>
-
-<details>
-  
-<summary><h2>시스템 구성도</h2></summary>
-
-![SKN05_PJT04_4_시스템 구성도](https://github.com/user-attachments/assets/bdd95d97-1fbe-4d78-b333-4a3da3162e79)
-  
-</details>
 
 ## Prerequisites
 
@@ -99,6 +76,30 @@ python manage.py runserver
 
 <details>
   
+<summary><h2>요구사항 정의서</h2></summary>
+
+![image](https://github.com/user-attachments/assets/bbabd0d5-01c1-4163-a8c8-d42a4d07e5a9)
+
+</details>
+
+<details>
+  
+<summary><h2>플로우 차트</h2></summary>
+
+![SKN05_PJT4_4_플로우차트](https://github.com/user-attachments/assets/03c7c556-2862-4664-b80e-fbf0e5babe85)
+  
+</details>
+
+<details>
+  
+<summary><h2>시스템 구성도</h2></summary>
+
+![SKN05_PJT04_4_시스템 구성도](https://github.com/user-attachments/assets/bdd95d97-1fbe-4d78-b333-4a3da3162e79)
+  
+</details>
+
+<details>
+  
 <summary><h2>작업 지시서</h2></summary>
 
 ![6](https://github.com/user-attachments/assets/eaebb972-5965-4e5d-9938-48023aec99c4)
@@ -108,34 +109,10 @@ python manage.py runserver
 ![10](https://github.com/user-attachments/assets/5ffc169c-5d16-4d4d-b7fc-968d30a61315)
 ![11](https://github.com/user-attachments/assets/73baa85a-d7ac-4583-b94e-9908fdafa335)
 
-  
 </details>
-  
-</details>
-
-<details>
-  
-<summary><h2>개선점</h2></summary>
-
-
-</details>
-
 
 <details>
  <summary><h2>발표자료</h2></summary>
 [https://www.canva.com/design/DAGZsCd0QvY/8cYwYsuAvFSAZzrmdXSkLQ/edit?utm_content=DAGZsCd0QvY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](url)
 
 </details>
-
-
-
-## 한 줄 회고
-<hr>
-<blockquote>
-
-•	이준호 : <br>
-•	신혜원 : 백엔드와 프론트엔드를 경험해 볼 수 있는 좋은 기회였습니다.<br>
-•	윤상혁 : <br>
-•	배윤관 : 
-
-</blockquote>
