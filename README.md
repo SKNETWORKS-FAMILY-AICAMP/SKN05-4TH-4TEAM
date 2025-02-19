@@ -1,18 +1,6 @@
-# SKN05-4TH-4TEAM
-
-### 4차 프로젝트: LLM 을 연동한 내외부 문서 기반 질의 응답 웹페이지 개발<br>
- **개발기간: 2024.12.18-12.19**
+# LLM 을 연동한 내외부 문서 기반 질의 응답 웹페이지 개발<br>
 
 -----
-
-# 팀원
-
-|  **이준호** |  **신혜원** |  **윤상혁** |  **배윤관** |
-|:---------:|:---------:|:---------:|:-----------:|
-| [@Lanvizu](https://github.com/Lanvizu) | [@gjslqjxjclq](https://github.com/gjslqjxjclq) | [@ggreing](https://github.com/ggreing) |  [@yoonkwan95](https://github.com/yoonkwan95) |
-|FE, BE|플로우 차트, 발표자료 작성|FE, BE|요구사항 정의서|
-<br>
-
 
 # 💻문서 Q&A 웹 서비스
 
@@ -24,30 +12,7 @@ Django 웹 프레임워크를 활용하여 사용자 친화적인 인터페이�
 
 기존 시스템의 핵심 기능을 웹 환경에 최적화하여 누구나 쉽게 이용할 수 있도록 개선했습니다.
 
-## 📜기술 스택
-
-<div>
- 
-**Environment**
-
-<div>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
- <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-
-**Development**
-
-<div>
- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
- <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-
+-----
 
 ## Prerequisites
 
@@ -74,9 +39,52 @@ secrets.json 파일 생성
 python manage.py runserver
 ```
 
+-----
+
+## 📜기술 스택
+
+<div>
+ 
+**Environment**
+
+<div>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+**Development**
+
+<div>
+ <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+ <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+ <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+
+
+-----
+
+# 팀원
+
+### SKN05-4TH-4TEAM
+
+|  **이준호** |  **신혜원** |  **윤상혁** |  **배윤관** |
+|:---------:|:---------:|:---------:|:-----------:|
+| [@Lanvizu](https://github.com/Lanvizu) | [@gjslqjxjclq](https://github.com/gjslqjxjclq) | [@ggreing](https://github.com/ggreing) |  [@yoonkwan95](https://github.com/yoonkwan95) |
+|FE, BE|플로우 차트, 발표자료 작성|FE, BE|요구사항 정의서|
+<br>
+
+ **개발기간: 2024.12.18-12.19**
+
+-----
+
 <details>
   
-<summary><h2>요구사항 정의서</h2></summary>
+<summary><h3>요구사항 정의서</h3></summary>
 
 ![image](https://github.com/user-attachments/assets/bbabd0d5-01c1-4163-a8c8-d42a4d07e5a9)
 
@@ -84,7 +92,7 @@ python manage.py runserver
 
 <details>
   
-<summary><h2>플로우 차트</h2></summary>
+<summary><h3>플로우 차트</h3></summary>
 
 ![SKN05_PJT4_4_플로우차트](https://github.com/user-attachments/assets/03c7c556-2862-4664-b80e-fbf0e5babe85)
   
@@ -92,7 +100,7 @@ python manage.py runserver
 
 <details>
   
-<summary><h2>시스템 구성도</h2></summary>
+<summary><h3>시스템 구성도</h3></summary>
 
 ![SKN05_PJT04_4_시스템 구성도](https://github.com/user-attachments/assets/bdd95d97-1fbe-4d78-b333-4a3da3162e79)
   
@@ -100,7 +108,7 @@ python manage.py runserver
 
 <details>
   
-<summary><h2>작업 지시서</h2></summary>
+<summary><h3>작업 지시서</h3></summary>
 
 ![6](https://github.com/user-attachments/assets/eaebb972-5965-4e5d-9938-48023aec99c4)
 ![7](https://github.com/user-attachments/assets/260ab523-3697-4cce-aede-a844a56034f3)
@@ -112,7 +120,7 @@ python manage.py runserver
 </details>
 
 <details>
-<summary><h2>발표자료</h2></summary>
+<summary><h3>발표자료</h3></summary>
 
 [![발표자료](https://github.com/user-attachments/assets/eb04ade3-7873-485f-b456-d16a6c935ae8)](https://www.canva.com/design/DAGZsCd0QvY/8cYwYsuAvFSAZzrmdXSkLQ/edit?utm_content=DAGZsCd0QvY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
