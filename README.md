@@ -112,7 +112,8 @@ python manage.py runserver
 </details>
 
 <details>
- <summary><h2>발표자료</h2></summary>
-[https://www.canva.com/design/DAGZsCd0QvY/8cYwYsuAvFSAZzrmdXSkLQ/edit?utm_content=DAGZsCd0QvY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](url)
+<summary><h2>발표자료</h2></summary>
+
+[![발표자료](https://github.com/user-attachments/assets/eb04ade3-7873-485f-b456-d16a6c935ae8)](https://www.canva.com/design/DAGZsCd0QvY/8cYwYsuAvFSAZzrmdXSkLQ/edit?utm_content=DAGZsCd0QvY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 </details>
